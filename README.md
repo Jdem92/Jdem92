@@ -23,7 +23,7 @@ class Jdem92:
         }
         self.code=["C#", "Javascript", "C++", "python", "T-SQL", "PL/SQL", "Powershell", "VB.Net"]
         self.tools=[".NET", "ASP.NET", "jQuery", "Ajax", "NUnit", "SignalR", "RxJS"]
-        self.interest=("Cooking", "Hiking", "Learning", "Running", "Programming", "Drop-Kicking bugs")
+        self.interest=("Cooking", "Hiking", "Running", "Drop-Kicking bugs")
         
 me = Jdem92()
 ```
