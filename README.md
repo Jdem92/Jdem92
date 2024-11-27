@@ -10,13 +10,23 @@
     🔭 I'm currently working on: <br>
         - 2D Physics Engine       <br>
         - React Portfolio site    <br>
-      
-  Please feel free to clone/fork any project, raise issues and submit PRs if you think something could be better! <br>
 </div>
 
 
 About me!
-
+```python
+class Jdem92:
+    def __init__(self):
+        self.info={
+            company: "First American",
+            status: "Software Engineer - 2",
+        }
+        self.code=["C#", "VB.Net", "Javascript", "T-SQL", "python", "PL/SQL", "Powershell", "python"]
+        self.tools=[".NET Core/Framework", "jQuery", "Ajax", "NUnit", "SignalR", "RxJS"]
+        self.interest=("Problem Solving", "Hiking", "Learning", "Running")
+        
+me = Jdem92()
+```
 
 <!--
 **Jdem92/Jdem92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
