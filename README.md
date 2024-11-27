@@ -4,7 +4,7 @@
 
 
 
-<div align="center">
+<div align="left">
   Welcome to my Github Profile! <br>
   I'm mostly just trying to break things or experiment... <br>
     🔭 I'm currently working on: <br>
