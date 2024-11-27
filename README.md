@@ -6,7 +6,7 @@
 
 <div align="left">
   Welcome to my Github Profile! <br>
-  I'm mostly just trying to break things or experiment... <br>
+  I'm mostly just trying to break things... <br>
     🔭 I'm currently working on: <br>
         - 2D Physics Engine       <br>
         - React Portfolio site    
