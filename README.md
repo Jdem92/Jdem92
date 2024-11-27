@@ -1,6 +1,19 @@
-## Hello there 👋 -
+<div align="center">
+  ## Hello there 👋 
+</div>
 
-Welcome to my Github Profile!
+
+
+<div align="center">
+  Welcome to my Github Profile! <br>
+  I'm mostly just trying to break things or experiment... <br>
+    🔭 I'm currently working on: <br>
+        - 2D Physics Engine       <br>
+        - React Portfolio site    <br>
+      
+  Please feel free to clone/fork any project, raise issues and submit PRs if you think something could be better! <br>
+</div>
+
 
 About me!
 
