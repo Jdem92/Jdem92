@@ -19,7 +19,7 @@ class Jdem92:
     def __init__(self):
         self.info={
             company: "First American",
-            status: "Software Engineer - 2",
+            status: "Software Engineer - II",
         }
         self.code=["C#", "Javascript", "C++", "python", "T-SQL", "PL/SQL", "Powershell", "VB.Net"]
         self.tools=[".NET", "ASP.NET", "jQuery", "Ajax", "NUnit", "SignalR", "RxJS"]
