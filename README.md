@@ -21,12 +21,13 @@ class Jdem92:
             company: "First American",
             status: "Software Engineer - 2",
         }
-        self.code=["C#", "VB.Net", "Javascript", "T-SQL", "python", "PL/SQL", "Powershell", "python"]
+        self.code=["C#", "VB.Net", "Javascript", "T-SQL", "python", "PL/SQL", "Powershell"]
         self.tools=[".NET Core/Framework", "jQuery", "Ajax", "NUnit", "SignalR", "RxJS"]
-        self.interest=("Problem Solving", "Hiking", "Learning", "Running")
+        self.interest=("Cooking", "Hiking", "Learning", "Running")
         
 me = Jdem92()
 ```
+
 
 <!--
 **Jdem92/Jdem92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
