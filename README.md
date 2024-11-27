@@ -9,8 +9,8 @@
   I'm mostly just trying to break things or experiment... <br>
     🔭 I'm currently working on: <br>
         - 2D Physics Engine       <br>
-        - React Portfolio site    <br>
-</div>
+        - React Portfolio site    
+</div> <br>
 
 
 About me!
