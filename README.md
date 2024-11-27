@@ -21,7 +21,7 @@ class Jdem92:
             company: "First American",
             status: "Software Engineer - 2",
         }
-        self.code=["C#", "VB.Net", "Javascript", "T-SQL", "python", "PL/SQL", "Powershell"]
+        self.code=["C#", "Javascript", "C++", "python", "T-SQL", "PL/SQL", "Powershell", "VB.Net"]
         self.tools=[".NET", "ASP.NET", "jQuery", "Ajax", "NUnit", "SignalR", "RxJS"]
         self.interest=("Cooking", "Hiking", "Learning", "Running", "Programming", "Drop-Kicking bugs")
         
