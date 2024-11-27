@@ -9,7 +9,6 @@
   <br>
     👀 I'm currently working on:  <br>
           - 2D Physics Engine       <br>
-          - React Portfolio site    <br>
 </div>
 <br>
 
