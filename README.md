@@ -1,7 +1,4 @@
-<div align="center">
- <h2>Hello there 👋 </h2> 
-</div>
-
+<h2>Hello there 👋 </h2> 
 <div align="left">
   Welcome to my Github Profile! <br>
   <br>
