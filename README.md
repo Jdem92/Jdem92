@@ -1,6 +1,5 @@
 <h2>Hello there 👋 </h2> 
 <div align="left">
-  <br>
   Just an enterprise programmer trying to break things... <br>
   <br>
     I'm currently working on:  <br>
