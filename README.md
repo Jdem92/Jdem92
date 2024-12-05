@@ -8,7 +8,7 @@
 <br>
 
 
-About me
+About me 
 ```python
 class Jdem92:
     def __init__(self):
@@ -18,7 +18,8 @@ class Jdem92:
         }
         self.code=["C#", "Javascript", "C++", "python", "T-SQL", "PL/SQL", "Powershell", "VB.Net", "HTML", "CSS"]
         self.tools=[".NET", "ASP.NET", "jQuery", "Ajax", "NUnit", "SignalR", "RxJS"]
-        self.interests=["Hiker", "Drop-Kicking bugs"]
+        self.titles=["Professional stack overflow researcher"]
+        #self.quoteOfTheWeek = ""
         
 me = Jdem92()
 ```
