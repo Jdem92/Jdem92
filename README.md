@@ -15,9 +15,9 @@ class Jdem92:
     def __init__(self):
         self.info={
             company: "First American",
-            status: "Software Engineer - II",
+            status: "SE - II",
         }
-        self.code=["C#", "Javascript", "C++", "python", "T-SQL", "PL/SQL", "Powershell", "VB.Net", "HTML", "CSS"]
+        self.code=["C#", "Javascript", "C++", "python", "SQL", "Powershell", "VB.Net", "HTML", "CSS"]
         self.tools=[".NET", "ASP.NET", "jQuery", "Ajax", "NUnit", "SignalR", "RxJS"]
         #self.quoteOfTheWeek = "Now that I have my coffee, I'm ready to watch radar"
         
