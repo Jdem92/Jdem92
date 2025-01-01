@@ -1,4 +1,4 @@
-<h2>Hello there 👋 ⛄ </h2> 
+<h2>Hello there 👋 </h2> 
 <div align="left">
   Just an enterprise programmer trying to break things... <br>
   <br>
