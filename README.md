@@ -5,8 +5,6 @@
 </div>
 <br>
 
-
-About me 
 ```python
 class Jdem92:
     def __init__(self):
