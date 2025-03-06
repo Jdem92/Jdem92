@@ -16,9 +16,8 @@ class Jdem92:
             company: "First American",
             status: "SE - II",
         }
-        self.code=["C#", "Javascript", "C++", "python", "SQL", "Powershell", "VB.Net", "HTML", "CSS"]
+        self.langs=["C#", "Javascript", "C++", "python", "SQL", "Powershell", "VB.Net", "HTML", "CSS"]
         self.tools=[".NET", "ASP.NET", "jQuery", "Ajax", "NUnit", "SignalR", "RxJS"]
-        #self.quoteOfTheWeek = "Now that I have my coffee, I'm ready to watch radar"
         
 me = Jdem92()
 ```
